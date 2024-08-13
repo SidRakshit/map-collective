@@ -33,7 +33,7 @@ const MainPrompter = () => {
 
   return (
     <div>
-      <h1>API Request Form</h1>
+      <h1>Agentic Model</h1>
       <div>
         <label>
           Company Name:
